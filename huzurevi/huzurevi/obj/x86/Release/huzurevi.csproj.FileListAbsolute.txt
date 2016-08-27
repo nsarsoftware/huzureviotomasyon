@@ -1,0 +1,12 @@
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\bin\Release\MyDatabase#1.sdf
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\bin\Release\huzurevi.exe.config
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\bin\Release\huzurevi.exe
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\bin\Release\huzurevi.pdb
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.Form1.resources
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.Properties.Resources.resources
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.csproj.GenerateResource.Cache
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.exe
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.pdb
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.analizform.resources
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.giris.resources
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Release\huzurevi.yeni_kayit.resources

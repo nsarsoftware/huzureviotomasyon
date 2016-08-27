@@ -1,0 +1,31 @@
+C:\Users\nsar\AppData\Local\Temporary Projects\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\nsar\AppData\Local\Temporary Projects\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\nsar\AppData\Local\Temporary Projects\huzurevi\obj\x86\Debug\huzurevi.Form1.resources
+C:\Users\nsar\AppData\Local\Temporary Projects\huzurevi\obj\x86\Debug\huzurevi.Properties.Resources.resources
+C:\Users\nsar\AppData\Local\Temporary Projects\huzurevi\obj\x86\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\nsar\AppData\Local\Temporary Projects\huzurevi\obj\x86\Debug\huzurevi.exe
+C:\Users\nsar\AppData\Local\Temporary Projects\huzurevi\obj\x86\Debug\huzurevi.pdb
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.exe
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.pdb
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.Form1.resources
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.Properties.Resources.resources
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\nsar\documents\visual studio 2010\Projects\huzurevi\huzurevi\bin\Debug\huzurevi.exe.config
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.giris.resources
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.yeni_kayit.resources
+C:\Users\nsar\Documents\Visual Studio 2010\Projects\huzurevi\huzurevi\obj\x86\Debug\huzurevi.analizform.resources
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\bin\Debug\huzurevi.exe.config
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.exe
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.pdb
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.analizform.resources
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.Form1.resources
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.giris.resources
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.Properties.Resources.resources
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.yeni_kayit.resources
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\obj\x86\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\nsar\Desktop\Huzurevi Otomasyonum V1.0\huzurevi\huzurevi\bin\Debug\huzurevi.pdb
